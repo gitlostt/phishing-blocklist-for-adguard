@@ -2,7 +2,7 @@
 ! Title: Text message and email phishing urls
 ! Description: These are urls have been collected from phishing text messages and emails
 ! Version: 1.0
-! Homepage: 
+! Homepage: https://raw.githubusercontent.com/gitlostt/phishing-blocklist-for-adguard/refs/heads/main/text_and_email_phishing_list.txt
 ! Last modified: 2025-06-13
 !
 ||sids243f.top^

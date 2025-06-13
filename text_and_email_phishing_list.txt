@@ -1,5 +1,5 @@
 !
-! Title: Text message and email phishing urls
+! Title: Gitlostt phishing list
 ! Description: These are urls have been collected from phishing text messages and emails
 ! Version: 1.0
 ! Homepage: https://raw.githubusercontent.com/gitlostt/phishing-blocklist-for-adguard/refs/heads/main/text_and_email_phishing_list.txt
@@ -31,3 +31,34 @@
 ||t.ly/UqJbg^
 ||t.ly/loqYs^
 ||rebrand.ly^
+||links.tollsinfo.center^
+||link.issueresolve.center^
+||link.invoicesettled.cc^
+||help.postaum.life^
+||commbanks.net/postt^
+||post.aulix.xyz^
+||https://ozpost.cc^
+||link.neast.solutions^
+||postmi.life^
+||post.idjnv.xyz^
+||mygov-rebates-id.publicvm.com^
+||link-oig.life/au^
+||link.nament.yachts^
+||cba-ui8.cfd^
+||post.anyiissues.date^
+||aupost.australiaif.express^
+||aupost-autrackings.vip^
+||auaapeata.xin^
+||review-status.cc^
+||manage-accountsuscription.com^
+||gfau.xyz^
+||caun.info^
+||info-claims-services.icu^
+||qrco.de^
+||colesps.life^
+||revenue.newaugov.info^
+||exchangeu.icu^
+||coles.exchangeaus.online^
+||colesiwan.life^
+||coles.exchangeplus.info^
+||is.gd^
